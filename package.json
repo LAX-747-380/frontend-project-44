@@ -1,7 +1,7 @@
 {
   "name": "@hexlet/code",
   "type": "module",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "[![Actions Status](https://github.com/LAX-747-380/frontend-project-44/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/LAX-747-380/frontend-project-44/actions)",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,8 @@
   },
   "homepage": "https://github.com/LAX-747-380/frontend-project-44#readme",
   "bin": {
-    "brain-games": "bin/brain-games.js"
+    "brain-games": "bin/brain-games.js",
+    "brain-even": "bin/brain-even.js"
   },
   "dependencies": {
     "node.js": "^0.0.1-security",
