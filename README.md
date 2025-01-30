@@ -6,5 +6,5 @@
 
 ## Демонстрация игры "Проверка на чётность"
 
-Посмотрите запись установки и запуска игры:  
-[![asciicast](https://asciinema.org/a/FsIPB8HJ5sFWcyOZlnRahzkiI.svg)](https://asciinema.org/a/FsIPB8HJ5sFWcyOZlnRahzkiI)
+Посмотрите запись установки и запуска игры brain-even:  
+[![asciicast]](https://asciinema.org/a/FsIPB8HJ5sFWcyOZlnRahzkiI)
