@@ -7,4 +7,4 @@
 ## Демонстрация игры "Проверка на чётность"
 
 Посмотрите запись установки и запуска игры:  
-[![asciinema](https://asciinema.org/a/59bf2104-b144-47fa-83ae-6a0b22ddc713.svg)](https://asciinema.org/a/59bf2104-b144-47fa-83ae-6a0b22ddc713)
+[![asciicast](https://asciinema.org/a/FsIPB8HJ5sFWcyOZlnRahzkiI.svg)](https://asciinema.org/a/FsIPB8HJ5sFWcyOZlnRahzkiI)
