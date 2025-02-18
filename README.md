@@ -8,3 +8,5 @@
 
 Посмотрите запись установки и запуска игры:  
 [![asciicast](https://asciinema.org/a/FsIPB8HJ5sFWcyOZlnRahzkiI.svg)](https://asciinema.org/a/FsIPB8HJ5sFWcyOZlnRahzkiI)
+
+ntcn
